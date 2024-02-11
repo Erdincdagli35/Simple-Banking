@@ -103,5 +103,12 @@ The following guides illustrate how to use some features concretely:
 These additional references should also help you:
 * [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
 
+Developer Notes: 
+
+I used PostgreSQL and Postman to develop the project. Model tests have passed but Controller tests have not passed. But API's has worked on Postman as successfully.
+Could you please check out the APIs on the Postman too? 
+
+Best Regards & Thanks
+
 
 
